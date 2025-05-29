@@ -1,0 +1,1 @@
+# DetectorMaduracionAjiRojoPythonYolov8
